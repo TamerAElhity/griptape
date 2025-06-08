@@ -1,0 +1,21 @@
+date,gender,age_group,channel,review,sentiment
+2024-09-02,Male,18-25,Mobile App,They resolved my issue fast. Great customer service. Mobile app is user-friendly. Online banking is smooth.,positive
+2024-07-22,Male,26-35,ATM,Happy with the interest rates. Mobile app is user-friendly. Loan process was quick. ATM network is wide. They resolved my issue fast.,positive
+2024-11-21,Female,26-35,Mobile App,Waited too long at the branch. Unhelpful customer support. Poor service attitude. Hidden fees everywhere. Had issues with my card.,negative
+2025-04-11,Female,60+,Online,ATM was out of service. Loan took forever to process. Unhelpful customer support. Hidden fees everywhere. Delayed response to my query.,negative
+2025-06-06,Female,60+,Mobile App,They explained everything clearly. Loan process was quick. Great customer service. Happy with the interest rates.,positive
+2025-04-27,Female,46-60,Branch,Poor service attitude. Delayed response to my query. Hidden fees everywhere. Loan took forever to process. ATM was out of service. Unhelpful customer support.,negative
+2025-03-11,Male,60+,Branch,They explained everything clearly. Mobile app is user-friendly. They resolved my issue fast. Loan process was quick. Branch was clean and quiet. Online banking is smooth. The staff was very helpful. Happy with the interest rates.,positive
+2025-04-19,Male,18-25,ATM,Branch was clean and quiet. The staff was very helpful. They explained everything clearly. Mobile app is user-friendly.,positive
+2025-03-07,Female,26-35,Call Center,Online banking is smooth. Great customer service. They explained everything clearly. Happy with the interest rates.,positive
+2025-04-07,Female,46-60,Online,Happy with the interest rates. Loan process was quick. Branch was clean and quiet. They explained everything clearly. Online banking is smooth. Mobile app is user-friendly. Great customer service. The staff was very helpful.,positive
+2024-12-03,Female,26-35,ATM,Loan process was quick. They resolved my issue fast. Happy with the interest rates. Branch was clean and quiet.,positive
+2025-05-18,Female,36-45,Branch,ATM was out of service. Website is hard to navigate. Loan took forever to process. Had issues with my card. App keeps crashing.,negative
+2025-03-10,Male,46-60,Branch,Online banking is smooth. Happy with the interest rates. They resolved my issue fast. Mobile app is user-friendly. They explained everything clearly. Branch was clean and quiet.,positive
+2025-05-12,Male,18-25,ATM,The staff was very helpful. Branch was clean and quiet. ATM network is wide. Mobile app is user-friendly. Loan process was quick. Online banking is smooth. Great customer service.,positive
+2025-06-05,Female,18-25,Online,Website is hard to navigate. Had issues with my card. Delayed response to my query. Unhelpful customer support.,negative
+2024-07-11,Male,26-35,ATM,Website is hard to navigate. ATM was out of service. Loan took forever to process. Waited too long at the branch. Hidden fees everywhere. Had issues with my card. Poor service attitude.,negative
+2024-07-25,Female,18-25,Branch,Loan took forever to process. Hidden fees everywhere. Website is hard to navigate. ATM was out of service. Unhelpful customer support. Had issues with my card. Delayed response to my query. App keeps crashing.,negative
+2024-08-07,Male,46-60,Call Center,App keeps crashing. ATM was out of service. Had issues with my card. Waited too long at the branch. Unhelpful customer support. Loan took forever to process. Poor service attitude.,negative
+2025-05-25,Male,36-45,Online,Waited too long at the branch. Loan took forever to process. Unhelpful customer support. Delayed response to my query.,negative
+2025-05-19,Male,36-45,Call Center,Happy with the interest rates. The staff was very helpful. They explained everything clearly. ATM network is wide.,positive
